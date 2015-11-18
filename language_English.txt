@@ -1,0 +1,31 @@
+LOGIN_WELCM1 - You have successfully logged in, {Player Name}
+LGOIN_WELCM2 - Welcome to Argonath RPG RS5!
+LOGIN_MFERR1 - The multi-factor verification service is offline. Please try again later.
+LOGIN_MFERR2 - Error: that code was wrong!
+LOGIN_MF1    - Your account has multi-factor authentication enabled.\n\n Please enter your code below as shown in the Google Authenticator app:
+LOGIN_PASSER1- Error: your passwords did not match! Remember, they are case-sensitive!
+LOGIN_PASSER2- Error: you have entered an invalid password.
+LOGIN_PASS2  - Please repeat the password you have chosen.
+LOGIN_QUIT   - Are you sure you wish to quit the server?
+LOGIN_ADULT  - Warning: This server contains elements that may be considered only suitable for adults.
+LOGIN_BYE1   - You chose to leave the server.
+ERROR_NOTLOG - Error: you have not logged in.
+ERROR_KICK   - Error: You can not do that command now.
+ECON_RELOAD  - [ALERT] Your economy data being reloaded, economic features unavailable momentarily.
+TXT_Login0   - Welcome to Argonath RPG
+TXT_Login1   - A world of its own
+CMD_TIME     - The real life server time is {Time} (CET - Central European Time).
+CMD_TD       - The time is {time} server time (CET - Central European Time), the date is {date}
+CMD_DATE     - The date is {date}.
+MONTH_1      - January
+MONTH_2      - February
+MONTH_3      - March
+MONTH_4      - April
+MONTH_5      - May
+MONTH_6      - June
+MONTH_7      - July
+MONTH_8      - August
+MONTH_9      - September
+MONTH_10     - October
+MONTH_11     - November
+MONTH_12     - December
