@@ -1,5 +1,5 @@
 LOGIN_WELCM1 - You have successfully logged in, {Player Name}
-LGOIN_WELCM2 - Welcome to Argonath RPG RS5!
+LOGIN_WELCM2 - Welcome to Argonath RPG RS5!
 LOGIN_MFERR1 - The multi-factor verification service is offline. Please try again later.
 LOGIN_MFERR2 - Error: that code was wrong!
 LOGIN_MF1    - Your account has multi-factor authentication enabled.\n\n Please enter your code below as shown in the Google Authenticator app:
