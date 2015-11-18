@@ -1,0 +1,31 @@
+LOGIN_WELCM1 - Ju keni hyre me sukses, {Player Name}
+LOGIN_WELCM2 - Miresevini ne Argonath RPG RS5!
+LOGIN_MFERR1 - Sherbimi verifikues multi-factor eshte jashte sherbimit. Ju lutem provojeni perseri me vone.
+LOGIN_MFERR2 - Gabim: Kodi eshte i gabuar!
+LOGIN_MF1    - Profili juaj ka autentikimin shum faktoresh te aktivizuar.\n\n Ju lutem fusni kodin me poshte sic tregohet ne applikacionin e Google Authenticator.
+LOGIN_PASSER1- Gabim: Fjalekalimi juaj nuk perputhet! Mbani mend, paswordi permban shkronja kapitale!
+LOGIN_PASSER2- Gabim: Ju keni futur nje Fjalekalim te gabuar.
+LOGIN_PASS2  - Ju lutem provoni perseri fjalekalimin qe ju keni zgjedhur.
+LOGIN_QUIT   - A jeni i sigurt qe doni te dilni nga serveri?
+LOGIN_ADULT  - Kujdes: Ky server permban element te pershtatshem vetem per te rritur.
+LOGIN_BYE1   - Ju zgjodhet te dilni nga server.
+ERROR_NOTLOG - Gabim: Ju nuk keni hyre.
+ERROR_KICK   - Gabim: Ju nuk mund te perdorni ate komande tani.
+ECON_RELOAD  - [ALERT] Te dhenat ekonomike tuajat po ringarkohen, karakteristikat ekonomike nuk jan te mundeshme per momentin.
+TXT_Login0   - Mireseerdhet ne Argonath RPG
+TXT_Login1   - Nje bote e vet
+CMD_TIME     - Ora reale e serverit eshte {Time} (CET - Central European Time).
+CMD_TD       - Ora eshte {time} ora e serverit (CET - Central European Time), data eshte {date}
+CMD_DATE     - Data eshte {date}.
+MONTH_1      - Janar 
+MONTH_2      - Shkurt
+MONTH_3      - Mars
+MONTH_4      - Prill
+MONTH_5      - Maj
+MONTH_6      - Qershor
+MONTH_7      - Korrik
+MONTH_8      - Gusht
+MONTH_9      - Shtator
+MONTH_10     - Tetor
+MONTH_11     - Nentor
+MONTH_12     - Dhjetor
