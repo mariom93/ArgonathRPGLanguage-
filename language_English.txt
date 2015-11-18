@@ -29,3 +29,34 @@ MONTH_9      - September
 MONTH_10     - October
 MONTH_11     - November
 MONTH_12     - December
+
+// Other
+RES_COMBAT   - You cannot do this while in combat.
+RES_NODONE	 - Error: This feature is currently disabled due to a bug.
+
+// Economy
+ECON_ATM_TY  - Thank you for using this Automated Teller Machine provided by Argonath RPG Bank!"
+ECON_ATM_NC  - Error: You are not at an ATM
+ECON_ATM_CIV - You do not have a bank account to use this device. You must first be a legal citizen.
+ECON_ATM_LIM - Error: You cannot withdraw amounts greater than $100,00 at an ATM. Please visit the local bank.
+ECON_ATM_POS - Error: You can only withdraw a positive amount.
+ECON_ATM_1m  - Error: You must wait a minute before using the ATM again for a withdrawal.
+ECON_BNK_N10 - Error: Cannot be longer than 10 characters.
+ECON_BNK_DBT - Bank: Sorry, you're in debt. Your accounts are frozen.
+ECON_BNK_ACC - That account doesn't exist or you don't have access to it.
+ECON_BNK_FKT - There was an error with the source account.
+ECON_BNK_LRG - Error: that value is too large.
+ECON_BNK_MIN - Error: minimum amount is $1.
+ECON_BNK_FUN - Error: You do not have enough money available to deposit that amount.
+ECON_BNK_WNSF- You have insufficient funds available to preform the request.
+ECON_BNK_TY  - Thank you for visiting Argonath RPG Bank
+ECON_BNK_REJ - Transaction rejected, funds will not be transfered
+ECON_BNK_PART- Your partner must be in the bank!
+ECON_BNK_PSLF- You can not open a partner account with yourself.
+ECON_BNK_PNO - You've selected not to create an account.
+ECON_BNK_PPNO- Your partner has declined your request to open an account.
+ECON_BNK_LOAD- Error: Your banks aren't loaded yet, please wait.
+ECON_BNK_BNK - Error: You must be in the bank.
+ECON_BNK_CIV - Error: We don't let immigrants operate bank accounts. Passport required to use bank.
+ECON_BNK_CRI - Error: the bank is closed due to a financial crisis.
+ECON_BNK_GRP - Error: Please use /groupbank to withdraw/deposit from a group account.
