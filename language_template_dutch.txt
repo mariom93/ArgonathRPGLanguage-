@@ -1,0 +1,31 @@
+LOGIN_WELCM1 - Je bent succesvol ingelogd, {Naam speler}
+LOGIN_WELCM2 - Welkom in Argonath RPG RS5!
+LOGIN_MFERR1 - De multi-factor verificatie is op dit moment offline, probeer het later nog eens.
+LOGIN_MFERR2 - Fout: de ingevoerde code was fout!
+LOGIN_MF1    - Je account heeft multi-factor verificatie ingeschakeld \n\n Voer alstublieft uw code in net zoals dit word aan gegeven in de Google Authenticator applicatie.
+LOGIN_PASSER1- Fout: Je wachtwoord klopte niet! Let op, hoofd en klein letters!
+LOGIN_PASSER2- Fout: je hebt een verkeerd wachtwoord ingevoerd.
+LOGIN_PASS2  - Voer uw wachtwoord nogmaals in.
+LOGIN_QUIT   - Weet je zeker dat je de server wil verlaten?
+LOGIN_ADULT  - Opgelet: Deze server bevat elementen die aanstootgevend kunnen zijn voor minderjarigen.
+LOGIN_BYE1   - Je hebt er voor gekozen om de server te verlaten.
+ERROR_NOTLOG - Fout: Je bent niet ingelogd.
+ERROR_KICK   - Fout: Je kunt deze optie momenteel niet gebruiken.
+ECON_RELOAD  - [OPGELET] De economische data word verniewd, economische onderdelen momenteel onbereikbaar.
+TXT_Login0   - Welkom in Argonath RPG
+TXT_Login1   - Een wereld van zichzelf.
+CMD_TIME     - De echte tijd is {time} (CET - Centraal Europese Tijd)
+CMD_TD       - De tijd is {time} server tijd  (CET - Centraal Europese Tijd), de datum is {date}
+CMD_DATE     - De datum is {date}
+MONTH_1      - Januari
+MONTH_2      - Februari
+MONTH_3      - Maart
+MONTH_4      - April
+MONTH_5      - Mei
+MONTH_6      - Juni
+MONTH_7      - Juli
+MONTH_8      - Augustus
+MONTH_9      - September
+MONTH_10     - Oktober
+MONTH_11     - November
+MONTH_12     - December
