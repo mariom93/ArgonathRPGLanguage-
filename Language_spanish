@@ -1,0 +1,62 @@
+LOGIN_WELCM1 - Has iniciado la sesion satisfactoriamente, {Player Name}
+LOGIN_WELCM2 - Bienvenido a Argonath RPG RS5
+LOGIN_MFERR1 - El servicio de verificacion multi-factor esta desactivado. Intentelo despues
+LOGIN_MFERR2 - Error: el codigo es incorrecto
+LOGIN_MF1    - Tu cuenta tiene el servicio de verificacion multi-factor activado. Por favor introduce el codigo mostrado en la applicacion de Google Authenticator
+LOGIN_PASSER1- Error: Las contraseñas no coinciden, recuerda que se distingue entre mayusculas y minusculas
+LOGIN_PASSER2- Error: Tu contraseña no es correcta
+LOGIN_PASS2  - Por favor vuelve a escribir tu contraseña
+LOGIN_QUIT   - ¿Estas seguro de que quieres salir del servidor?
+LOGIN_ADULT  - Advertencia: Este servidor contiene algunos elementos que podrian ser clasificados para adultos
+LOGIN_BYE1   - Has salido del servidor
+ERROR_NOTLOG - Error: No has iniciado sesion
+ERROR_KICK   - Error: No puedes usar el comando en este momento
+ECON_RELOAD  - [ALERTA] Tu informacion economica esta siendo recargada, las opciones economicas estaran fuera de servicio momentaneamente
+TXT_Login0   - Bienvenido a Argonath RPG
+TXT_Login1   - Un mundo propio
+CMD_TIME     - La hora real del servidor es {Time} (CET - Hora de Europa Central)
+CMD_TD       - La hora del servidor es {time} (CET - Hora de Europa Central), la fecha es {date}
+CMD_DATE     - La fecha es {date}
+MONTH_1      - Enero
+MONTH_2      - Febrero
+MONTH_3      - Marzo
+MONTH_4      - Abril
+MONTH_5      - Mayo
+MONTH_6      - Junio
+MONTH_7      - Julio
+MONTH_8      - Agosto
+MONTH_9      - Septiembre
+MONTH_10     - Octubre
+MONTH_11     - Noviembre
+MONTH_12     - Diciembre
+
+// Otros
+RES_COMBAT   - No puedes hacer esto en mitad de un combate
+RES_NODONE   - Error: Esta funcion esta actualmente desactivada debido a un fallo
+
+// Economia
+ECON_ATM_TY  - Gracias por usar este cajero automatico proporcionado por el banco de Argonath RPG
+ECON_ATM_NC  - Error: No estas en un cajero automatico
+ECON_ATM_CIV - Error: No tienes una cuenta bancaria para usar este dispositivo. Primero tienes que obtener tu pasaporte
+ECON_ATM_LIM - Error: No puedes retirar cantidades superiores a 100.000$ en un cajaro automatico. Visita tu banco
+ECON_ATM_POS - Error: Solo puedes retirar una cantidad positiva
+ECON_ATM_1m  - Error: Debes esperar un minuto para volver a retirar dinero del cajero automatico
+ECON_BNK_N10 - Error: No puede contener mas de 10 caracteres
+ECON_BNK_DBT - Banco: Tienes deudas sin pagar, Tus cuentas estan bloqueadas
+ECON_BNK_ACC - La cuenta no existe o no tienes aceso a ella
+ECON_BNK_FKT - Hubo un error con el origen de la cuenta
+ECON_BNK_LRG - Error: La cantidad es muy grande
+ECON_BNK_MIN - Error: La cantidad minima es 1$
+ECON_BNK_FUN - Error: No tienes el dinero suficiente para depositar esa cantidad
+ECON_BNK_WNSF- No tienes los fondos suficientes para hacer esa solicitud
+ECON_BNK_TY  - Gracias por visitar el banco de Argonath RPG
+ECON_BNK_REJ - Transaccion denegada, la cantidad no va a ser transferida
+ECON_BNK_PART- Tu compañero debe de estar en el banco
+ECON_BNK_PSLF- No puedes abrir una cuenta compartida contigo mismo
+ECON_BNK_PNO - Has selecionado no crear la cuenta
+ECON_BNK_PPNO- Tu compañero a denegado la solicitud para abrir la cuenta
+ECON_BNK_LOAD- Error: Tus bancos no se han cargado todavia, por favor espera
+ECON_BNK_BNK - Error: Debes de estar en el banco
+ECON_BNK_CIV - Error: Los inmigrantes no tienen acceso a una cuenta, necesitas tener el pasaporte
+ECON_BNK_CRI - Error: El banco esta cerrado debido a una crisis financiera
+ECON_BNK_GRP - Error: Por favor usa /groupbank para ingresar o retirar dinero de una cuenta grupal
